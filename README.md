@@ -1,9 +1,9 @@
 # Population Dynamics Simulator
 
+Interactive Python application for visualizing mathematical population growth models.
+
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-
-Interactive Python application for visualizing mathematical population growth models.
 
 ## Overview
 
@@ -18,7 +18,7 @@ A desktop GUI tool to explore and compare different population dynamics models u
 
 ### Install dependencies:
 ```bash
-pip install numpy matplotlib ddeint
+pip install -r requirements.txt
 ```
 
 ### Run the app:
