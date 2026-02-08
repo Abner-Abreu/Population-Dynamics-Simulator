@@ -1,4 +1,4 @@
-# Population Models Simulator
+# Population Dynamics Simulator
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
